@@ -1,0 +1,10 @@
+.container {
+    align-items: center;
+    background-color: rgb(var(--background-start-rgb));
+    display: flex;
+    padding: 10px 25px;
+}
+
+.image {
+    margin-right: 50px;
+}
